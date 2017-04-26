@@ -1,0 +1,91 @@
+body {
+    background-color: whitesmoke;
+    font-family: cursive, arial, sans-serif;
+    font-size: auto;
+}
+header {
+ box-shadow: 1px, 2px, 5px, grey;
+ padding: 0px;
+}
+header  #opposition, #question {
+    display: inline;
+}
+
+#logo {
+    width:200px;
+}
+
+#opposition {
+    width: 150px;
+    margin-left: 1100px;
+    margin-bottom: 300px;
+    margin-top: 50px;
+
+}
+#question{
+    width: 150px;
+    
+}
+header #opposition: {
+    padding: 0px;
+}
+
+    
+h1 {
+    text-align: center;
+    border: 1000px;
+    font-size: 25px;
+    margin: 0px;
+}
+
+#opposition, #question {
+    display: inline;
+}
+
+.identifiant {
+    padding: 0px;
+    margin: 0px;
+}
+
+ aside {
+     padding: 0px;
+     text-align: right;
+     margin-left: 800px;   
+ }
+ section {
+     width: 300px;
+     padding: 0xp;
+     display: inline;
+ }
+ .PasEncore {
+     margin: 0px;
+     font-size: 14px;
+ }
+
+ .PourEnfant {
+     font-family: Arial;
+     font-size: 14px;
+     margin-top: 18px;
+     
+ }
+ section.aide, .contenuAide {
+     font-family: Arial;
+     font-size: 14px;
+     vertical-align: middle;
+     width: 100%;
+ }
+     h5 {
+         text-align: right;
+     }
+#aide {
+     padding-bottom: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 15px;
+
+     }
+
+ .important {
+     text-align: right;
+     margin-left: 500px;
+ } 
